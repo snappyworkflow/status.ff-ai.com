@@ -7,6 +7,8 @@ sites:
     url: https://ff-ai.com
   - name: Fast Forward Web Application
     url: https://app.ff-ai.com
+  - name: Fast Forward Trust Center
+    url: https://trust.ff-ai.com/
 
 assignees: # Users to assign downtime issues (optional)
   - bradmkjr
